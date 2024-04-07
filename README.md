@@ -26,4 +26,4 @@
 # 使用教程
 
 ### GPU
-[GPU上使用教程](deepspeed-megatron/README.md)
+[GPU上使用教程](deepspeed-megatron/README.md)# lbt
